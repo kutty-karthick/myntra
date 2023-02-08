@@ -10,12 +10,14 @@ body{
     width: 100%;
     overflow-x: hidden;
 }
-
+/* navbar styles */
 .nav-nav{
     position: sticky;
     top: 0;
    
 }
+
+/* myntra logo styles */
 
 .logo {
     display: flex;
@@ -34,6 +36,8 @@ body{
     margin-left: 48px;
     position: relative;
 }
+
+/* list of ul( men, women ...) */
 
 ul{
     margin: auto 0 auto 0;
@@ -57,6 +61,9 @@ ul li a {
     font-size: 13px;
     font-weight: 700;
 }
+
+/* search box styles */
+
 .search{
     position: absolute;
     left:675px;
@@ -95,6 +102,9 @@ ul li a {
     outline: none;
     
 }
+
+/* profile  wishlist  bag - styles */
+
 .list1{
    position: absolute;
    height: 40px;
@@ -158,6 +168,9 @@ ul li a {
 .img{
     width: 19px;
 }
+
+/* sidebar styles */
+
 .flat{
     
     transform: rotate(180deg);
@@ -189,6 +202,9 @@ ul li a {
     margin: 24px 12px;
 
 }
+
+/* image container styles */
+
 .image-container{
   margin: 20px 0 0 0;
 }
@@ -212,14 +228,18 @@ ul li a {
     height: auto;
     float: left;
 }
+
+/* Footer styles */
+
 .foot{
     padding: 20px 12em;
 }
 
+/* online shopping */
+
 .f-container{
     display: flex;
     vertical-align: top;
-    /* padding: 20px 0 ; */
     justify-content: space-between;
     
 }
@@ -228,6 +248,9 @@ ul li a {
     font-weight: 700;
     font-size: 12px;
 }
+
+/* customer policies */
+
 .parah p a,.parah a{
     color: #282c3f;
     display: block;
@@ -243,6 +266,9 @@ ul li a {
 .parah .onl a{
     padding: 16px 0 28px 0;
 }
+
+/* Experience myntra - image */
+
 .parah-img{
     display: flex;
 
@@ -252,6 +278,9 @@ ul li a {
     height: 40px;
     padding: 5px;
 }
+
+/* stocklist */
+
 .parah-social{
     display: flex;
 }.parah-social a img{
@@ -290,6 +319,8 @@ strong{
     padding-left: 10px;
 }
 
+/* popular searches */
+
 .quote{
     position: relative;
     margin: 15px 0;
@@ -313,6 +344,9 @@ strong{
     font-size: 15px;
     line-height: 25px;
 }
+
+/* contact */
+
 .pop{
     margin-top: 15px;
     color: #696b79;
@@ -328,6 +362,9 @@ strong{
 .pop-pop{
     color: #94969f;
 }
+
+/* Registered Office Address */
+
 .ad-container{
     margin-top: 15px;
     border-top: 1px solid #eaeaec;
@@ -346,6 +383,9 @@ strong{
     font-size: 15px;
     color: #696b79;
 }
+
+/* phone number */
+
 .ad-num{
     position: absolute;
     right: 10px;
@@ -356,6 +396,9 @@ strong{
     color: #526cd0;
     font-weight: 700;
 }
+
+/* ONLINE SHOPPING MADE EASY AT MYNTRA */
+
 .pg{
     font-size: 15px;
     border-top: 1px solid #eaeaec;
